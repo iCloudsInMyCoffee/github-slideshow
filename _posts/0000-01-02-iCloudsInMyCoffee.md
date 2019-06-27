@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Second slide changes @ted_james@hotmail.com @iCloudsInMyCoffee
 Use the left arrow to go back!
